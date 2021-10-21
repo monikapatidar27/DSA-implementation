@@ -1,0 +1,1 @@
+{"name":"Local: Stack","url":"c:\\Users\\pc\\Desktop\\DSA learning\\Data implementation\\Stack.cpp","tests":[{"id":1634741829661,"input":"3\n5 2 3\n5 2 4\n4 0 0","output":"PASS\nFAIL\nFAIL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\pc\\Desktop\\DSA learning\\Data implementation\\Stack.cpp","group":"local","local":true}
