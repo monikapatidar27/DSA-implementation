@@ -58,7 +58,7 @@ class  queue{
                 return;
             }
             else{
-                for(int i=front;i<rear;i++){
+                for(int i=front;i<=rear;i++){
                     cout<<arr[i]<<"<--";
                 }
             }

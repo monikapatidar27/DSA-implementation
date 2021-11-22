@@ -22,7 +22,7 @@ public:
     T peek(){
         if(isEmpty())
         {
-            T(NULL);
+            return T(NULL);
         }
         else
         {
